@@ -1,0 +1,109 @@
+-1-1-1-1-1-1-1-1
+Total sum: 0
+Start time: 39, End time: 17614, Total time: 17575
+1th burst is 4111
+2th burst is 17
+3th burst is 10
+4th burst is 4065
+5th burst is 17
+6th burst is 10
+7th burst is 4065
+8th burst is 17
+9th burst is 10
+10th burst is 4065
+11th burst is 17
+12th burst is 10
+13th burst is 45
+14th burst is 17
+15th burst is 10
+16th burst is 10
+17th burst is 10
+18th burst is 10
+19th burst is 10
+20th burst is 10
+21th burst is 10
+22th burst is 10
+23th burst is 10
+24th burst is 10
+25th burst is 17
+26th burst is 16
+27th burst is 17
+28th burst is 10
+29th burst is 10
+30th burst is 10
+31th burst is 10
+32th burst is 10
+33th burst is 10
+34th burst is 10
+35th burst is 10
+36th burst is 10
+37th burst is 10
+38th burst is 10
+39th burst is 17
+40th burst is 10
+41th burst is 17
+42th burst is 10
+43th burst is 10
+44th burst is 10
+45th burst is 10
+46th burst is 10
+47th burst is 10
+48th burst is 10
+49th burst is 10
+50th burst is 10
+51th burst is 10
+52th burst is 10
+53th burst is 17
+54th burst is 10
+55th burst is 10
+56th burst is 10
+57th burst is 10
+58th burst is 17
+59th burst is 10
+60th burst is 10
+61th burst is 10
+62th burst is 10
+63th burst is 10
+64th burst is 10
+65th burst is 10
+66th burst is 10
+67th burst is 10
+68th burst is 10
+69th burst is 10
+70th burst is 10
+71th burst is 10
+72th burst is 30
+73th burst is 10
+74th burst is 10
+75th burst is 10
+76th burst is 10
+77th burst is 16
+[pid 0]: Exit called. Code: 0
+Completion time of pid 0 is 2476878th burst is 32
+Main thread time : 0
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+CPU utilisation : 69.492894%
+Average CPU burst : 220.666667
+Maximum CPU burst : 4111
+Minimum CPU burst : 10
+Total number of CPU bursts : 78
+ Total_burst : 17212
+ Total ticks 24768
+Average Waiting Time : -nan
+ Total numner of threads 0
+Total completion time = 0
+Max completion time = 24768
+Min completion time = 24768
+Average completion time = -nan
+Variance of completion time = 0.000000
+Machine halting!
+
+Ticks: total 24768, idle 7556, system 8960, user 8252
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 80
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...

@@ -1,0 +1,407 @@
+-Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+1Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+-Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+1-Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+1Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+-Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+1-Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+1Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+-Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+1-Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+1Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+-Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+1Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+
+Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+TSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+oSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+tSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+aSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+lSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+sSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+uSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+mSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+:Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+0Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+
+Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+SSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+tSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+aSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+rSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+tSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+tSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+iSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+mSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+eSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+:Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+2Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+9Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+,Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ESleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+nSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+dSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+tSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+iSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+mSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+eSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+:Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+9Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+5Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+0Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+4Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+,Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+TSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+oSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+tSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+aSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+lSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+tSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+iSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+mSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+eSleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+:Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+ Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+9Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+4Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+7Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+5Sleeping thread "main" with pid 0
+#########################################################################################Putting thread main with PID 0 on ready list.
+Switching from thread "main" with pid 0 to thread "main" with pid 0
+Now in thread "main" with pid 0
+Now in thread "main" with pid 0
+
+[pid 0]: Exit called. Code: 0
+Finishing thread "main" with pid 0
+Completion time of pid 0 is 16428***************************************************************************************Main thread time : 0
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+CPU utilisation : 55.101047%
+Average CPU burst : 119.105263
+Maximum CPU burst : 2061
+Minimum CPU burst : 10
+Total number of CPU bursts : 76
+ Total_burst : 9052
+ Total ticks 16428
+Average Waiting Time : -nan
+ Total numner of threads 0
+Total completion time = 0
+Max completion time = 16428
+Min completion time = 16428
+Average completion time = -nan
+Variance of completion time = 0.000000
+Machine halting!
+
+Ticks: total 16428, idle 7376, system 800, user 8252
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 78
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...

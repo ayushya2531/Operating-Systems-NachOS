@@ -1,0 +1,22 @@
+./nachos -rs 0 -A 3 -R 3 -x ../test/vmtest1
+�otal sum: 0
+[pid 0]: Exit called. Code: 0
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting!
+
+Ticks: total 2104700, idle 697533, system 114400, user 1292767
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 13
+Paging: faults 1896
+Network I/O: packets received 0, sent 0
+
+Total simulated ticks: 2104700
+Total CPU busy time: 1407167
+Non-zero CPU burst statistics: count: 9544, max: 296, min: 10, mean: 147.44
+Number of context switches through yield or preemption: 7635, Number of non-preemptive context switches: 1909
+Total time for which the ready queue is empty: 697533
+Wait time in ready queue: Total: 0, Average: 0.00
+
+Completion time statistics for all threads: Max: 2104700, Min: 2104700, Avg: 2104700.00, Variance: 0.00

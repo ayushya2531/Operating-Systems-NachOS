@@ -1,0 +1,24 @@
+poojay@cse-MP-Server:~/cs330assignment3/nachos/code/userprog$ ./nachos -rs 0 -A 3 -R 2 -x ../test/vmtest2
+Total sum: 0
+[pid 0]: Exit called. Code: 0
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting!
+
+Ticks: total 682274, idle 241272, system 36970, user 404032
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 13
+Paging: faults 657
+Network I/O: packets received 0, sent 0
+
+Total simulated ticks: 682274
+Total CPU busy time: 441002
+Non-zero CPU burst statistics: count: 3039, max: 291, min: 10, mean: 145.11
+Number of context switches through yield or preemption: 2369, Number of non-preemptive context switches: 670
+Total time for which the ready queue is empty: 241272
+Wait time in ready queue: Total: 0, Average: 0.00
+
+Completion time statistics for all threads: Max: 682274, Min: 682274, Avg: 682274.00, Variance: 0.00
+
+Cleaning up...
